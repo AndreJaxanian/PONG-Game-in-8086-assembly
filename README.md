@@ -7,6 +7,7 @@ single version of pong game in 8086 assembly using emu8086 framework
 
 **install Emu8086 from :** *https://download.cnet.com/Emu8086-Microprocessor-Emulator/3000-2069_4-10392690.html*
 
+**run emu8086 and compile the program and save .exe file in *MYBUILD* **
 
 **run dosbox and enter :**
 
