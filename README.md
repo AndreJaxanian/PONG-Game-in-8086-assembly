@@ -9,7 +9,7 @@ install Emu8086 from : https://download.cnet.com/Emu8086-Microprocessor-Emulator
 
 run dosbox and enter :
 
-'''
+```
 mount c c:\emu8086
 
 c:
@@ -17,7 +17,7 @@ c:
 cd MYBUILD
 
 single_pong_game.exe
-'''
+```
 
 #####################################################
 
